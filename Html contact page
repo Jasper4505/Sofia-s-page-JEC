@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Page</title>
+    <style>
+        body {
+            background: url('animebcgjpg.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Contact Our Team</h2>
+    <form>
+        <input type="email" name="email" placeholder="Email Address">
+        <input type="tel" name="phone" placeholder="Phone Number">
+        <textarea name="enquiry" rows="4" placeholder="Your Enquiry"></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    <p>Sofia Martínez: 082-929-219</p>
+    <button onclick="window.location.href='https://www.facebook.com/AnimeMartinéz'">Facebook</button>
+    <button onclick="window.location.href='https://www.instagram.com/AnimeMartinéz'">Instagram</button>
+</div>
+
+</body>
+</html>
