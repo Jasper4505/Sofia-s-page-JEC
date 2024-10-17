@@ -1,0 +1,347 @@
+body{
+padding: 25px;
+}
+.title {
+color: #5C6AC4;
+}
+
+body {
+    background-attachment: fixed;
+    background-image: url('https://img.freepik.com/premium-vector/realistic-crumpled-paper-texture-background_389675-162.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.title-header {
+    position: absolute;
+    top: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.title-text {
+    position: absolute;
+    top: 70px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: black;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+
+.trending-header {
+    position: absolute;
+    top: 200px;
+    left: 25%;
+    transform: translateX(-32%);
+}
+.trending-text {
+    position: absolute;
+    top: 235px;
+    left: 25%;
+    transform: translateX(-5%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.trend1-header {
+    position: absolute;
+    top: 335px;
+    left: 25%;
+    transform: translateX(-32%);
+}
+.trend1-text {
+    position: absolute;
+    top: 435px;
+    left: 25%;
+    transform: translateX(-5%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.trend2-header {
+    position: absolute;
+    top: 570px;
+    left: 25%;
+    transform: translateX(-32%);
+}
+
+.trend2-text {
+    position: absolute;
+    top: 650px;
+    left: 25%;
+    transform: translateX(-5%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.trend3-header {
+    position: absolute;
+    top: 800px;
+    left: 25%;
+    transform: translateX(-32%);
+}
+
+.trend3-text {
+    position: absolute;
+    top: 880px;
+    left: 25%;
+    transform: translateX(-5%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.new-header {
+    position: absolute;
+    top: 200px;
+    right: 25%;
+    transform: translateX(+32%);
+}
+
+.new-text {
+    position: absolute;
+    top: 235px;
+    right: 25%;
+    transform: translateX(+5%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.new1-header {
+    position: absolute;
+    top: 335px;
+    right: 25%;
+    transform: translateX(+32%);
+}
+
+.new1-text {
+    position: absolute;
+    top: 435px;
+    right: 25%;
+    transform: translateX(-5%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.new2-header {
+    position: absolute;
+    top: 570px;
+    right: 25%;
+    transform: translateX(+32%);
+}
+
+.new2-text {
+    position: absolute;
+    top: 650px;
+    right: 25%;
+    transform: translateX(-5%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.new3-header {
+    position: absolute;
+    top: 800px;
+    right: 25%;
+    transform: translateX(+32%);
+}
+
+.new3-text {
+    position: absolute;
+    top: 880px;
+    right: 25%;
+    transform: translateX(-5%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.anime-header {
+    position: absolute;
+    top: 1035px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.anime-text {
+    position: absolute;
+    top: 1100px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+.anime1-header {
+    position: absolute;
+    top: 1220px;
+    left: 25%;
+    transform: translateX(-32%);
+}
+.anime1-text {
+    position: absolute;
+    top: 1220px;
+    left: 25%;
+    transform: translateX(-32%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.anime2-header {
+    position: absolute;
+    top: 1450px;
+    left: 25%;
+    transform: translateX(-32%);
+}
+.anime2-text {
+    position: absolute;
+    top: 1460px;
+    left: 25%;
+    transform: translateX(-32%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.anime3-header {
+    position: absolute;
+    top: 1685px;
+    left: 25%;
+    transform: translateX(-32%);
+}
+.anime3-text{
+    position: absolute;
+    top: 1685px;
+    left: 25%;
+    transform: translateX(-32%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+.anime4-header {
+    position: absolute;
+    top: 1920px;
+    left: 25%;
+    transform: translateX(-32%);
+}
+.anime4-text{
+    position: absolute;
+    top: 1920px;
+    left: 25%;
+    transform: translateX(-32%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.anime6-header {
+    position: absolute;
+    top: 1220px;
+    right: 25%;
+    transform: translateX(+32%);
+}
+.anime6-text{
+    position: absolute;
+    top: 1220px;
+    right: 25%;
+    transform: translateX(+32%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+.anime7-header {
+    position: absolute;
+    top: 1450px;
+    right: 25%;
+    transform: translateX(+32%);
+}
+.anime7-text{
+    position: absolute;
+    top: 1450px;
+    right: 25%;
+    transform: translateX(+32%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+.anime8-header {
+    position: absolute;
+    top: 1685px;
+    right: 25%;
+    transform: translateX(+32%);
+}
+.anime8-text{
+    position: absolute;
+    top: 1685px;
+    right: 25%;
+    transform: translateX(+32%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+.anime9-header {
+    position: absolute;
+    top: 1920px;
+    right: 25%;
+    transform: translateX(+32%);
+}
+.anime9-text{
+    position: absolute;
+    top: 1920px;
+    right: 25%;
+    transform: translateX(+32%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.space_bottom {
+    position: absolute;
+    top: 2150px;
+    left:50%;
+    transform: translateX(-50%);
+}
+
+
+.about-header {
+    position: fixed;
+    bottom: 0;
+    left: 25%;
+    transform: translateX(-32%);
+    transition: transform 0.2s;
+}
+
+.about-text {
+    position: fixed;
+    bottom: 50px;
+    left: 25%;
+    transform: translateX(+50%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+
+.contact-header {
+    position: fixed;
+    bottom: 0;
+    right: 25%;
+    transform: translateX(+32%);
+}
+
+.contact-text {
+    position: fixed;
+    bottom: 50px;
+    right: 25%;
+    transform: translateX(-20%);
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
