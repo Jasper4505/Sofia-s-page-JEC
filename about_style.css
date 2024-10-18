@@ -1,0 +1,16 @@
+#heading {
+    color:rgb(238, 9, 9);
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url ("url(about_stuff/istockphoto-1300131150-612x612.jpg)");
+    animation-name: slide-in;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+
+ }
+ 
+#mainp {
+font-size: 20px;
+
+
+ }
